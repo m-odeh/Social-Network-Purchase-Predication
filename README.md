@@ -7,4 +7,4 @@ The dataset contain information of users that interact with advertisment of a pr
 - Estimated Salary 
 - Purchased or Not 
 
-USing a KNN model, will try predict accuratly if a user is likely to purchase the product or not.
+Using a KNN model, will try predict accuratly if a user is likely to purchase the product or not.
